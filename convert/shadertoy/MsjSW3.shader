@@ -1,4 +1,4 @@
-﻿Shader "Yukatama/shadertoy/MsjSW3"
+Shader "Yukatama/shadertoy/MsjSW3"
 {
   SubShader
   {

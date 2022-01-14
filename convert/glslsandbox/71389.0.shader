@@ -1,4 +1,4 @@
-﻿Shader "Yukatama/glslsandbox/71389.0"
+Shader "Yukatama/glslsandbox/71389.0"
 {
   SubShader
   {

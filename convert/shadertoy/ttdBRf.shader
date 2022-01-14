@@ -1,4 +1,4 @@
-﻿Shader "Yukatama/shadertoy/ttdBRf"
+Shader "Yukatama/shadertoy/ttdBRf"
 {
   SubShader
   {

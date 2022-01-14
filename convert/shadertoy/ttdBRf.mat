@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ttdBRf
-  m_Shader: {fileID: 4800000, guid: e35e423d736907040b89d86bd90fc4b0, type: 3}
+  m_Shader: {fileID: 4800000, guid: d8adb1d39c015544a8bc4b3aebd930f8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
